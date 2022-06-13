@@ -35,12 +35,8 @@
     </a>
     <a href="https://t.me/muhammadhamzah8" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-    <a href="discordapp.com/users/319481084267986944" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-
- 
+     
+<hr>
  📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammadhamzah8&show_icons=true&theme=gotham" alt="muhammadhamzah8" />
