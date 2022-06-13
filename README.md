@@ -25,7 +25,7 @@
 <p align="center">
   <i>Let's connect and chat! Open to anyone</i>
 <p align="center">
-    <a href="[www.linkedin.com/in/muhammadhamzah8](https://www.linkedin.com/in/muhammadhamzah8/)" target="_blank">
+    <a href="https://www.linkedin.com/in/muhammadhamzah8/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
     </a>
     <a href="https://github.com/muhammadhamzah8" target="_blank">    
