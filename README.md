@@ -18,6 +18,8 @@
 - ✅ PHP
 - ✅ HTML
 - ✅ CSS
+- ✅ Tableau
+- ✅ Google Data Studio
 
 <hr>
 <p align="center">
