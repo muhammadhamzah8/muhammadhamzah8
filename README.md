@@ -34,3 +34,8 @@
     <a href="https://muhammadhamzah8.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
     </a>
+
+ 
+ 📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammadhamzah8&show_icons=true&theme=gotham" alt="muhammadhamzah8" />
